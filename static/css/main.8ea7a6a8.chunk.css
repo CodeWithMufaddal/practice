@@ -1,0 +1,2 @@
+.alert__animation{animation:Alert 1s;position:absolute;z-index:100;left:2%}@keyframes Alert{0%{opacity:0}25%{opacity:1}50%{opacity:1}75%{opacity:1}to{opacity:0}}
+/*# sourceMappingURL=main.8ea7a6a8.chunk.css.map */
